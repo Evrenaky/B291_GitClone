@@ -1,1 +1,4 @@
 git clone komutu githubta var olan repoyu lokale indirmek icin kullanilir.
+
+
+remote repod degisiklik
